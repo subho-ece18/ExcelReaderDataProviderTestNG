@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="796" started-at="2018-08-04T17:55:07Z" finished-at="2018-08-04T17:55:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="796" started-at="2018-08-04T17:55:07Z" finished-at="2018-08-04T17:55:08Z">
+      <class name="ExcelCopy.DriverExcel">
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="16" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="0" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="15" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="0" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="0" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="0" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="0" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="0" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+        <test-method status="PASS" signature="getTradeData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelCopy.DriverExcel@56f4468b]" name="getTradeData" duration-ms="0" started-at="2018-08-04T23:25:08Z" data-provider="getExcelData" finished-at="2018-08-04T23:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[EURUSD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTradeData -->
+      </class> <!-- ExcelCopy.DriverExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
